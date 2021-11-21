@@ -1,7 +1,7 @@
 [package]
 name = "SpamWatchAPI"
 version = "0.4.0"
-authors = ["Sitishu <admin@sitischu.com>"]
+authors = ["SitiShu <admin@sitischu.com>"]
 edition = "2018"
 description = "API for t.me/SpamWatch to query User IDs for their ban status and reason."
 homepage = "https://github.com/SpamWatch/SpamWatchAPI"
